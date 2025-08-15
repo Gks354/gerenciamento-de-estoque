@@ -18,7 +18,3 @@ Este projeto foi desenvolvid com o objetivo de criar uma aplicação simples par
 - Organizar código e arquivos de forma modular  
 - Melhorar a lógica de programação
 
----
-
-## Prévia do Projeto
-*(adicione uma imagem ou gif mostrando o projeto em funcionamento)*
